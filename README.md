@@ -19,4 +19,6 @@ The technologies are divided in two blocks:
 ## Use Case Diagram
 ## Usability
 ## Prototype
+The prototype isn´t already finished but is an approximation of what i want to do to the project´s application.
+Prototype link:
 https://www.justinmind.com/usernote/tests/49456582/49502737/49524566/index.html
