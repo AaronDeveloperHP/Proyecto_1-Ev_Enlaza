@@ -6,6 +6,8 @@
 4. [Usability](#usability)
 5. [Prototype](#prototype)
 ## Introduction
+The first evaluation project is uploaded in this repository.
+In my case it consists of an application to manage the attendance of the employees of the Philharmonic Orchestra of Gran Canaria.
 ## Technologies
 ## E/R Diagram
 ## Use Case Diagram
