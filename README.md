@@ -2,13 +2,19 @@
 1. [Introduction](#introduction)
 2. [Technologies](#technologies)
 3. [E/R Diagram](#e/r-Diagram)
-3. [Use Case Diagram](#use-case-diagram)
-4. [Usability](#usability)
-5. [Prototype](#prototype)
+4. [Use Case Diagram](#use-case-diagram)
+5. [Usability](#usability)
+6. [Prototype](#prototype)
 ## Introduction
 The first evaluation project is uploaded in this repository.<br/>
 In my case it consists of an application to manage the attendance of the employees of the Philharmonic Orchestra of Gran Canaria.
 ## Technologies
+The technologies are divided in two blocks:
+#### Frontend
+* [Ionic with Angular]
+#### Backend
+* [Laravel]
+* [MySQL]
 ## E/R Diagram
 ## Use Case Diagram
 ## Usability
