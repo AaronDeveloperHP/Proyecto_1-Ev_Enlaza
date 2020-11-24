@@ -11,14 +11,14 @@ In my case it consists of an application to manage the attendance of the employe
 ## Technologies
 The technologies are divided in two blocks:
 #### Frontend
-* [Ionic with Angular]
+* Ionic with Angular
 #### Backend
-* [Laravel]
-* [MySQL]
+* Laravel
+* MySQL
 ## E/R Diagram
 ## Use Case Diagram
 ## Usability
 ## Prototype
-The prototype isn´t already finished but is an approximation of what i want to do to the project´s application.
+The prototype isn´t already finished but is an approximation of what i want to do to the project´s application.<br/>
 Prototype link:
 https://www.justinmind.com/usernote/tests/49456582/49502737/49524566/index.html
