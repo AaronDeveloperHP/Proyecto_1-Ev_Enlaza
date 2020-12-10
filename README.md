@@ -16,7 +16,7 @@ The technologies are divided in two blocks:
 * Laravel
 * MySQL
 ## Prerequisites
-## How to Use
+## How to use
 ## Documentation
 ## FAQ
 The prototype isn´t already finished but is an approximation of what i want to do to the project´s application.<br/><br/>
