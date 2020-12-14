@@ -22,8 +22,8 @@ The technologies are divided in two blocks:
 ## Prerequisites
 ## How to use
 ## Documentation
-If you want to know more about the app and how it´s made. Link to the rest of the documentation:
-[here](/Documentation.md)
+If you want to know more about the app and how it´s made. <br/>
+Link to the rest of the documentation:[here](/Documentation.md)
 ## FAQ
 The prototype isn´t already finished but is an approximation of what i want to do to the project´s application.<br/><br/>
 Prototype link:
