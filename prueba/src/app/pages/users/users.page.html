@@ -1,0 +1,29 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-menu-button></ion-menu-button>
+    </ion-buttons>
+    <ion-title>Usuarios</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content id="content">
+  <ion-card *ngFor="let b of users">
+    <ion-card-header>
+      <ion-card-subtitle color="dark">{{b.email}}</ion-card-subtitle>
+      <ion-card-subtitle><b>{{b.type}}</b></ion-card-subtitle>
+    </ion-card-header>
+  
+    <ion-card-content>
+    Nombre: <b>{{b.name}}</b> <br /> 
+    Primer Apellido: <b>{{b.first_surname}}</b><br />
+    Segundo Apellido: <b>{{b.last_surname}}</b><br />
+    Teléfono: <b>{{b.phone}}</b>
+    </ion-card-content>
+    <ion-item >
+    </ion-item>
+  </ion-card>
+
+  <ion-button (click)="insertUser()"expand="block">Añadir Usuario</ion-button>
+
+</ion-content>
