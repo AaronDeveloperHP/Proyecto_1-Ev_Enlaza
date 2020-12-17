@@ -3,6 +3,7 @@
 2. [Technologies Comparation](#technologies-comparation)
 3. [Usability](#usability)
 4. [User Requirements](#user-requirements)
+5. [Prototype](#prototype)
 ## Data Model
 ### Tables
 My aplication is composed of four table:
@@ -26,3 +27,6 @@ My aplication is composed of four table:
 |PWA|A Web aplication that can be aded to the home screen of a device like a native app (example:Trivago,Pinterest)|-They have offline capabilities<br/>-They use Push Notifications<br/>-No installation or manual updates required |-Compatibility with IOS<br/>-They can´t use all the device capabilities because they aren´t native |
 ## Usability
 ## User Requirements
+## Prototype
+The prototype isn´t already finished but is an approximation of what i want to do to the project´s application.<br/>
+Prototype link: https://www.justinmind.com/usernote/tests/49456582/49502737/49524566/index.html
