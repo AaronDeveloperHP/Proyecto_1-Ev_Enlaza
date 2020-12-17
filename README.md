@@ -20,6 +20,12 @@ The technologies are divided in two blocks:
 * Laravel
 * MySQL
 ## Prerequisites
+* Git - You can install it from https://git-scm.com/downloads.
+* MySQL - You can install it from https://www.mysql.com/downloads/.
+* MySQL Workbench - You can install it from https://dev.mysql.com/downloads/workbench/.
+* Visual Studio Code - The Editor used in this project
+* Composer - Install it from https://getcomposer.org/download/
+* Php You can install it from https://www.php.net/downloads
 ## Installation guide
 ## Documentation
 If you want to know more about the app and how it´s made. <br/>
