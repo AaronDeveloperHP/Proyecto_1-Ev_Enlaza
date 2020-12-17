@@ -17,11 +17,11 @@ My aplication is composed of four table:
 * E/R Diagram
 ![Diagrama entidad relacion](https://github.com/KiraGONW/Proyecto_1-Ev_Enlaza/blob/master/docImg/ER.PNG)
 ## Technologies Comparation
-|   |Advantages| Disadvantages |
-|----| ------------------ | ------------------|
-|WEB| Row 1 Column 1 | Row 1 Column 2 | 
-|NATIVE| Row 2 Column 1 | Row 2 Column 2 |
-|HYBRID| Row 3 Column 1 | Row 3 Column 2 |
-|PWA|||
+|   |DESCRIPTION|Advantages| Disadvantages |
+|----|---------|------------------ | ------------------|
+|WEB| |Row 1 Column 1 | Row 1 Column 2 | 
+|NATIVE| |Row 2 Column 1 | Row 2 Column 2 |
+|HYBRID| |Row 3 Column 1 | Row 3 Column 2 |
+|PWA||||
 ## Usability
 ## User Requirements
