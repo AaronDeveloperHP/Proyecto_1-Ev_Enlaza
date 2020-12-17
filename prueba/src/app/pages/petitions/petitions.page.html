@@ -1,0 +1,42 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-menu-button></ion-menu-button>
+    </ion-buttons>
+    <ion-title>Solicitudes</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content id="content">
+  <ion-card *ngFor="let b of petitions">
+    <ion-card-header *ngIf="b.state=='aceptada'">
+      <ion-card-subtitle color="success">{{b.title}}</ion-card-subtitle>
+      <ion-card-subtitle color="success"><b>{{b.action}}</b></ion-card-subtitle>
+    </ion-card-header>
+    <ion-card-header *ngIf="b.state=='denegada'">
+      <ion-card-subtitle color="danger">{{b.title}}</ion-card-subtitle>
+      <ion-card-subtitle color="danger"><b>{{b.action}}</b></ion-card-subtitle>
+    </ion-card-header>
+    <ion-card-header *ngIf="b.state=='pendiente'">
+      <ion-item>
+      <ion-buttons>
+       <ion-button (click)="updatePetition(b.id,b.title,b.action,b.description,b.state,b.origin,b.start_date,b.end_date)"color="success">Aceptar</ion-button>
+       <ion-button color="danger">Denegar</ion-button>
+      </ion-buttons>
+      </ion-item>
+      <ion-card-subtitle color="warning">{{b.title}}</ion-card-subtitle>
+      <ion-card-subtitle color="warning"><b>{{b.action}}</b></ion-card-subtitle>
+    </ion-card-header>
+    <ion-card-content> 
+    Estado: <b>{{b.state}}</b><br />
+    Origen:<b>{{b.origin}}</b><br/>
+    Fecha de inicio: <b>{{b.start_date}}</b><br />
+    Fecha fin: <b>{{b.end_date}}</b>
+    </ion-card-content>
+    <ion-item>
+      <ion-icon (click)="deletePetition(b.id)" name="trash" slot="end"></ion-icon>
+    </ion-item>
+   
+  </ion-card>
+
+</ion-content>

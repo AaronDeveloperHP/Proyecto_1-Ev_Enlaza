@@ -1,0 +1,47 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-menu-button></ion-menu-button>
+    </ion-buttons>
+    <ion-title>Registro</ion-title>
+  </ion-toolbar>
+</ion-header>
+<ion-content padding>
+  <form #form="ngForm" (ngSubmit)="register(form)" method="post">
+    <ion-item>
+      <ion-label position="floating">Nombre</ion-label>
+      <ion-input ngModel name="name"></ion-input>
+  </ion-item>
+    <ion-item>
+        <ion-label position="floating">Primer Apellido</ion-label>
+        <ion-input ngModel name="fName"></ion-input>
+    </ion-item>
+  
+    <ion-item>
+      <ion-label position="floating">Segundo Apellido</ion-label>
+      <ion-input ngModel name="lName"></ion-input>
+    </ion-item>
+  <ion-item>
+    <ion-label position="floating">Tipo de usuario</ion-label>
+    <ion-select ngModel name="type">
+      <ion-select-option *ngFor="let b of type" value="{{b.type}}">{{b.type}}</ion-select-option>
+    </ion-select>
+    
+</ion-item>
+<ion-item>
+  <ion-label position="floating">Teléfono</ion-label>
+  <ion-input type="number" maxlength="9" ngModel name="phone"></ion-input>
+</ion-item>
+    <ion-item>
+      <ion-label position="floating">Correo Electrónico</ion-label>
+      <ion-input type="email" ngModel name="email"></ion-input>
+    </ion-item>
+  
+    <ion-item>
+      <ion-label position="floating">Contraseña</ion-label>
+      <ion-input type="password" ngModel name="password"></ion-input>
+    </ion-item>
+   
+    <ion-button type="submit" expand="full" color="danger">Register</ion-button>
+  </form>
+</ion-content>  
