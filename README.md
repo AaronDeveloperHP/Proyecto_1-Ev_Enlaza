@@ -41,7 +41,7 @@ To use mysql native authentication run the following script in MySQL Workbench:
 CREATE USER 'YOUR_USER'@'localhost' IDENTIFIED WITH mysql_native_password BY 'YOUR_PASSWORD';
 GRANT ALL PRIVILEGES ON *.* TO 'YOUR_USER'@'localhost' WITH GRANT OPTION;
 ```
-5. Open the file .env inside backend folder and change the values to yours:
+5. Create a the file called .env an put it inside backend folder and change the values to yours:
 ``` markdown
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
@@ -62,15 +62,15 @@ php artisan migrate
 ```
 php artisan passport:install
 ```
-8. Run the sercvice:
+9. Run the sercvice:
 ```
 php artisan serve
 ```
-9. Now go to the frontend folder and run:
+10. Now go to the frontend folder and run:
 ```
 npm install
 ```
-10. Run the application
+11. Run the application
 ```
 ionic serve
 ```
