@@ -3,9 +3,8 @@
 1. [Introduction](#introduction)
 2. [Technologies](#technologies)
 3. [Prerequisites](#prerequesites)
-4. [How to use](#how-to-use)
+4. [Installation guide](#installation-guide)
 5. [Documentation](#documentation)
-6. [FAQ](#faq)
 ## Introduction
 The first evaluation project is uploaded in this repository.<br/>
 In my case it consists of an application to manage the attendance of the employees of the Philharmonic Orchestra of Gran Canaria.<br/>
@@ -21,11 +20,8 @@ The technologies are divided in two blocks:
 * Laravel
 * MySQL
 ## Prerequisites
-## How to use
+## Installation guide
 ## Documentation
 If you want to know more about the app and how it´s made. <br/>
 Link to the rest of the documentation:[here](/Documentation.md)
-## FAQ
-The prototype isn´t already finished but is an approximation of what i want to do to the project´s application.<br/><br/>
-Prototype link:
-https://www.justinmind.com/usernote/tests/49456582/49502737/49524566/index.html
+
