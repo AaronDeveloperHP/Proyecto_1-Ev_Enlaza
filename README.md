@@ -1,4 +1,4 @@
-[OFGC](https://github.com/KiraGONW/Proyecto_1-Ev_Enlaza/blob/master/docImg/Logo.PNG)
+![OFGC](https://github.com/KiraGONW/Proyecto_1-Ev_Enlaza/blob/master/docImg/Logo.PNG)
 # Proyecto_1-Ev_Enlaza
 1. [Introduction](#introduction)
 2. [Technologies](#technologies)
