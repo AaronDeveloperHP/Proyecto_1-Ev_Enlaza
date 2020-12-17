@@ -27,21 +27,21 @@ My aplication is composed of four table:
 |PWA|A Web aplication that can be aded to the home screen of a device like a native app (example:Trivago,Pinterest)|-They have offline capabilities<br/>-They use Push Notifications<br/>-No installation or manual updates required |-Compatibility with IOS<br/>-They can´t use all the device capabilities because they aren´t native |
 ## Usability
 ## User Requirements
-* R1 Plataform
-R1.1. The application must be mobile-first.
-R1.2. But also can be used in the browser.
-* R2 The app must have various roles for make different actions.
-* R3 Authentication
-R3.1. The regular users can´t be registered by themselves. 
-R3.2. The admin can register new users.
-R3.3. The users need to login to enter the applcation.
-R3.4. Once a user is loged, the app generates a token that is used to the rest of actions.
-* R4 Menu
-R4.1. Depend of the loged user´s type the options that are displayed in the menu.
-R4.2. The menu must be intuitive
-* R5 Actions
-R5.1. The standar user can generate petition, view his petitions, view his data.
-R5.2 The admin user can view and manage the petitions of the users,view his data, view the data of the users and register new users.
+* R1 Plataform<br/>
+R1.1. The application must be mobile-first.<br/>
+R1.2. But also can be used in the browser.<br/>
+* R2 The app must have various roles for make different actions.<br/>
+* R3 Authentication<br/>
+R3.1. The regular users can´t be registered by themselves.<br/> 
+R3.2. The admin can register new users.<br/>
+R3.3. The users need to login to enter the applcation.<br/>
+R3.4. Once a user is loged, the app generates a token that is used to the rest of actions.<br/>
+* R4 Menu<br/>
+R4.1. Depend of the loged user´s type the options that are displayed in the menu.<br/>
+R4.2. The menu must be intuitive.<br/>
+* R5 Actions<br/>
+R5.1. The standar user can generate petition, view his petitions, view his data.<br/>
+R5.2 The admin user can view and manage the petitions of the users,view his data, view the data of the users and register new users.<br/>
 ## Prototype
 The prototype isn´t already finished but is an approximation of what i want to do to the project´s application.<br/>
 Prototype link: https://www.justinmind.com/usernote/tests/49456582/49502737/49524566/index.html
