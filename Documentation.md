@@ -17,11 +17,11 @@ My aplication is composed of four table:
 * E/R Diagram
 ![Diagrama entidad relacion](https://github.com/KiraGONW/Proyecto_1-Ev_Enlaza/blob/master/docImg/ER.PNG)
 ## Technologies Comparation
-|   |DESCRIPTION|Advantages| Disadvantages |
+|   |Description|Advantages| Disadvantages |
 |----|---------|------------------ | ------------------|
-|WEB| |Row 1 Column 1 | Row 1 Column 2 | 
-|NATIVE| |Row 2 Column 1 | Row 2 Column 2 |
-|HYBRID| |Row 3 Column 1 | Row 3 Column 2 |
-|PWA||||
+|WEB|An application design for browsers (Example:ieselrincon.org)|| Row 1 Column 2 | 
+|NATIVE|An applications that is installed in the device (Example:WhhatsApp)| Row 2 Column 2 |
+|HYBRID|An application that combines the web and native features, so it can be installed and also used in the browser(Example:Gmail)|Row 3 Column 1 | Row 3 Column 2 |
+|PWA|A Web aplication that can be aded to the home screen of a device like a native app (example:Trivago,Pinterest)|||
 ## Usability
 ## User Requirements
