@@ -5,12 +5,16 @@
 4. [User Requirements](#user-requirements)
 ## Data Model
 ### Tables
+My aplication is composed of four table:
+* Users
+* Petitions
+* Types
+* Action
 ### Diagrams
 * Case use Diagram
-<br/>
+
 ![Diagrama de casos de uso](https://github.com/KiraGONW/Proyecto_1-Ev_Enlaza/blob/master/docImg/CasosDeUso.PNG)
 * E/R Diagram
-<br/>
 ![Diagrama entidad relacion](https://github.com/KiraGONW/Proyecto_1-Ev_Enlaza/blob/master/docImg/ER.PNG)
 ## Technologies Comparation
 ## Usability
