@@ -34,7 +34,7 @@ My aplication is composed of four table:
 - User menu:<br/>
 ![userMenu.png](https://github.com/KiraGONW/Proyecto_1-Ev_Enlaza/blob/master/docImg/userMenu.PNG)
 - Admin Menu:<br/>
-![Menu.png](https://github.com/KiraGONW/Proyecto_1-Ev_Enlaza/blob/master/docImg/Menu.PNG)
+![Menu.png](https://github.com/KiraGONW/Proyecto_1-Ev_Enlaza/blob/master/docImg/Menu.PNG)<br/>
 * Easy display of the information.
 ![Display.png](https://github.com/KiraGONW/Proyecto_1-Ev_Enlaza/blob/master/docImg/Display.PNG)
 * Use of a code of colors to tell information to the user ().
