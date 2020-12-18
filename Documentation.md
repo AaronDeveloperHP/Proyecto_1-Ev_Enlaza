@@ -27,11 +27,18 @@ My aplication is composed of four table:
 |PWA|A Web aplication that can be aded to the home screen of a device like a native app (example:Trivago,Pinterest)|-They have offline capabilities<br/>-They use Push Notifications<br/>-No installation or manual updates required |-Compatibility with IOS<br/>-They can´t use all the device capabilities because they aren´t native |
 ## Usability
 * Legibility, the size, the font and the contrast with the backgroud make it easy to read.
+![font.png](https://github.com/KiraGONW/Proyecto_1-Ev_Enlaza/blob/master/docImg/font.PNG)
 * Simplicity in the design of the app to make it cleaner.
-* Easy navigation with a intuitive menu.
 * Easy to learn for the user, beacuse it simplicity and the use of the apropiate icons.
+* Easy navigation with a intuitive menu.
+- User menu:<br/>
+![userMenu.png](https://github.com/KiraGONW/Proyecto_1-Ev_Enlaza/blob/master/docImg/userMenu.PNG)
+- Admin Menu:<br/>
+![Menu.png](https://github.com/KiraGONW/Proyecto_1-Ev_Enlaza/blob/master/docImg/Menu.PNG)
 * Easy display of the information.
-* Use of a code of colors to tell information to the user (color=the petition state).
+![Display.png](https://github.com/KiraGONW/Proyecto_1-Ev_Enlaza/blob/master/docImg/Display.PNG)
+* Use of a code of colors to tell information to the user ().
+![Colors.png](https://github.com/KiraGONW/Proyecto_1-Ev_Enlaza/blob/master/docImg/colors.PNG)
 ## User Requirements
 * R1 Plataform<br/>
 R1.1. The application must be mobile-first.<br/>
