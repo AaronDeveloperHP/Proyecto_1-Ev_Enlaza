@@ -35,9 +35,9 @@ My aplication is composed of four table:
 ![userMenu.png](https://github.com/KiraGONW/Proyecto_1-Ev_Enlaza/blob/master/docImg/userMenu.PNG)
 - Admin Menu:<br/>
 ![Menu.png](https://github.com/KiraGONW/Proyecto_1-Ev_Enlaza/blob/master/docImg/Menu.PNG)<br/>
-* Easy display of the information.
+* Easy display of the information.<br/>
 ![Display.png](https://github.com/KiraGONW/Proyecto_1-Ev_Enlaza/blob/master/docImg/Display.PNG)
-* Use of a code of colors to tell information to the user.
+* Use of a code of colors to tell information to the user.<br/>
 ![Colors.png](https://github.com/KiraGONW/Proyecto_1-Ev_Enlaza/blob/master/docImg/colors.png)
 ## User Requirements
 * R1 Plataform<br/>
